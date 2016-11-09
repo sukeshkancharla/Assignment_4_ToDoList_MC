@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="add">Add Task</string>
+    <string name="viewTasks">View Tasks</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="delete">Delete</string>
+    <string name="noTasks">No Tasks are there</string>
+</resources>
